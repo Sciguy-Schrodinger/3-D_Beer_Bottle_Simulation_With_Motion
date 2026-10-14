@@ -96,10 +96,15 @@ by a flat irregular puddle placed at the impact x-position.
 ## Project layout
 .
 ├── 3D_beer_bottle_simulation.cpp   # everything: shaders, geometry, physics, main loop
+
 ├── beer_bottle.png
+
 ├── stb/
+
 │   └── stb_image.h
+
 ├── Makefile
+
 └── README.md
 
 ## Notes
