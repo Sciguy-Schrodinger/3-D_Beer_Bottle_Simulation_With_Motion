@@ -541,7 +541,7 @@ void getSpilledLiquidGeometry(vector<float>& vertices, vector<unsigned int>& ind
   vertices.clear();
   indices.clear();
 
-  int sectors = 32;
+  int sectors = 512;
   float puddleY = -0.6f;
   float puddleRadius = 0.2f;
   float puddleIrregularity = 0.5f;
